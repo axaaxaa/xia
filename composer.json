@@ -1,0 +1,17 @@
+{
+    "name": "axaaxaa/xia",
+    "description": "李明霞",
+    "type": "library",
+    "authors": [
+        {
+            "name": "李明霞",
+            "email": "lilian1131@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+	"psr-4": {
+	    "axaaxaa\\xia\\": "src/"
+	}
+    }
+}
