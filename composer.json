@@ -8,7 +8,9 @@
             "email": "lilian1131@163.com"
         }
     ],
-    "require": {},
+    "require": {
+        "axaaxaa/xia": "dev-master"
+    },
     "autoload": {
 	"psr-4": {
 	    "axaaxaa\\xia\\": "src/"
